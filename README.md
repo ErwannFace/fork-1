@@ -1,4 +1,4 @@
 # Fork
-* [FrontEnd.md]
-* [BackEnd.md]
-* [ChargeProjetNumerique.md]
+* [Parcours Front End](FrontEnd.md)
+* [Parcours Back End](BackEnd.md)
+* [Parcours Chargé de Projet Numérique](ChargeProjetNumerique.md)
