@@ -1,6 +1,6 @@
 # Fork
 
-![fork](http://www.doleac.net/files/gimgs/36_logo-de-la-cuisine-copie.jpg =250x)
+<img src="http://www.doleac.net/files/gimgs/36_logo-de-la-cuisine-copie.jpg" height="200px" />
 
 Il va faut choisir quel parcours sélectionner pour les mois à venir. 
 Pour se faire, voici les trois parcours disponibles. Faites votre choix, et faites le projet associé au programme que vous aurez choisi!
