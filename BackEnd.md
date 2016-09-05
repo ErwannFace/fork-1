@@ -30,12 +30,14 @@ De façon complémentaire, il/elle participe aussi à :
 
 ## Le projet
 Le client vous demande de réaliser une application de comptabilité pour ses utilisateurs. Toute la gestion du front end a déjà été comandée à un autre service.
-Le client vous demande d'implémenter votre partie grâce à un framework [Silex](http://silex.sensiolabs.org/download) et vous laisse libre sur l'implémentation, les routes ainsi que sur la charte graphique à apporter. 
+Le client vous demande d'implémenter votre partie grâce à un framework [Silex](http://silex.sensiolabs.org/download) et vous laisse libre sur l'implémentation, les routes ainsi que sur la charte graphique à apporter.
+Dans un premier temps vous devez modéliser la structure UML de vos objets.
+Puis après validation auprès du chef de projet, vous devrez l'implémenter.
 Cette application de comptabilité devra permettre à un utilisateur connecté d'administrer : 
 * Les utilisateurs
 * Les dépenses
 Ce qu'on entend par administrer étant la création, la mise à jour et la suppression. Ainsi qu'avoir une visualisation complète et intuitive des dépenses effectuées. 
-Les données provenant de la partie back seront dispensées au format JSON. Vous avez un échantillon des données présentes ici : 
+Les données provenant de la partie back devront être accessibles par la partie front au format JSON. Vous avez un échantillon des données présentes ici : 
 * [users] (data/users.json)
 * [depenses](data/depenses.json)
 
