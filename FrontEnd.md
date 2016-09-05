@@ -32,7 +32,7 @@ De façon complémentaire, il/elle participe aussi à :
 
 ## Le projet
 Le client vous demande de réaliser une application de comptabilité pour ses utilisateurs. 
-L'application de back-end a déjà été comandée au sein d'un autre service et il vous est demandé de réaliser la partie front. Le client vous demande d'implémenter votre partie en AngularJS et vous laisse libre sur l'implémentation, les routes ainsi que sur la charte graphique à apporter. 
+L'application de back-end a déjà été commandée au sein d'un autre service et il vous est demandé de réaliser la partie front. Le client vous demande d'implémenter votre partie en AngularJS et vous laisse libre sur l'implémentation, les routes ainsi que sur la charte graphique à apporter. 
 Cette application de comptabilité devra permettre à un utilisateur connecté d'administrer : 
 * Les utilisateurs
 * Les dépenses
