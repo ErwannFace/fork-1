@@ -11,6 +11,10 @@ Pour se faire, voici les trois parcours disponibles. Faites votre choix, et fait
 
 # Cours
 ## Front End
+### Javascript
+ * [Open Classroom - POO - 20h](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript/trop-classe-la-poo)
+ * [Grafikart - POO - 25min](https://www.grafikart.fr/tutoriels/javascript/poo-javascript-object-466)
+ 
 ### Angular JS
  * [Open Classroom - 10h](https://openclassrooms.com/courses/developpez-vos-applications-web-avec-angularjs)
  * [grafikart- 3h26 de videos](https://www.grafikart.fr/formations/angularjs)
